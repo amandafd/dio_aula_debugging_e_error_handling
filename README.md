@@ -16,7 +16,7 @@
         <li>Se os parâmetros não forem enviados, lance um erro do tipo 'ReferenceError'</li>
         <li>Se o array não for do tipo 'object', lance um erro do tipo 'TypeError'</li>
         <li>Se o número não for do tipo 'number', lance um erro do tipo 'TypeError'</li>
-        <li>Se o tamanho do array for diferente do número enviado como parâmetro, lance um erro do tipo `RangeError`</li>
+        <li>Se o tamanho do array for diferente do número enviado como parâmetro, lance um erro do tipo 'RangeError'</li>
       </ul>
     </li>
     <li>Utilize a declaração 'try...catch'</li>
