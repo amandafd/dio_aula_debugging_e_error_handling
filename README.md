@@ -1,4 +1,4 @@
-<h1 align="center">Atividade de Debuggin e Error Handling</h1>
+<h1 align="center">Atividade de Debugging e Error Handling</h1>
 
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/%C3%BAltima%20atualiza%C3%A7%C3%A3o-april%202022-blue" align="center" alt="Badge atualização" /></a>
